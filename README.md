@@ -248,10 +248,9 @@ The project can be deployed using platforms such as:
 ## 🔗 Live Website
 
 **Live Demo:**  
-Add your deployed Vercel URL here.
 
 ```text
-https://your-foodnest-project.vercel.app
+https://food-nest-kappa.vercel.app/
 ```
 
 ## 👨‍💻 Developer
@@ -261,7 +260,7 @@ https://your-foodnest-project.vercel.app
 Frontend Developer specializing in **React.js** and modern web development.
 
 **Portfolio:**  
-Add your portfolio URL here.
+https://divakar-portfolio-rosy.vercel.app/
 
 This project was developed as a **React.js food ordering website** to practice modern frontend development, component architecture, state management, and responsive web design.
 
